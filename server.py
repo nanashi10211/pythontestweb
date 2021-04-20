@@ -9,7 +9,6 @@ class requestHandler(BaseHTTPRequestHandler):
         # self.wfile.write('hello hunter'.encode())
         self.wfile.write(self.path[1:].encode())
 
-
 def main():
     PORT = 3000
     server_address = ("",PORT)
