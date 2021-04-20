@@ -1,1 +1,1 @@
-web: gunicorn server:app --log-file -
+web: uvicorn server:app --log-file -
