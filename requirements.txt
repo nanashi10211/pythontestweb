@@ -28,7 +28,6 @@ olefile==0.46
 paramiko==2.7.1
 pexpect==4.6.0
 Pillow==7.2.0
-protobuf==3.12.3
 pycairo==1.16.2
 pycrypto==2.6.1
 pycups==2.0.1
